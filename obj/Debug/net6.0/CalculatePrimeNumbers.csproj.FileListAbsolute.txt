@@ -1,0 +1,15 @@
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\CalculatePrimeNumbers\bin\Debug\net6.0\CalculatePrimeNumbers.exe
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\CalculatePrimeNumbers\bin\Debug\net6.0\CalculatePrimeNumbers.deps.json
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\CalculatePrimeNumbers\bin\Debug\net6.0\CalculatePrimeNumbers.runtimeconfig.json
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\CalculatePrimeNumbers\bin\Debug\net6.0\CalculatePrimeNumbers.dll
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\CalculatePrimeNumbers\bin\Debug\net6.0\CalculatePrimeNumbers.pdb
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\CalculatePrimeNumbers\obj\Debug\net6.0\CalculatePrimeNumbers.csproj.AssemblyReference.cache
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\CalculatePrimeNumbers\obj\Debug\net6.0\CalculatePrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\CalculatePrimeNumbers\obj\Debug\net6.0\CalculatePrimeNumbers.AssemblyInfoInputs.cache
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\CalculatePrimeNumbers\obj\Debug\net6.0\CalculatePrimeNumbers.AssemblyInfo.cs
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\CalculatePrimeNumbers\obj\Debug\net6.0\CalculatePrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\CalculatePrimeNumbers\obj\Debug\net6.0\CalculatePrimeNumbers.dll
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\CalculatePrimeNumbers\obj\Debug\net6.0\refint\CalculatePrimeNumbers.dll
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\CalculatePrimeNumbers\obj\Debug\net6.0\CalculatePrimeNumbers.pdb
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\CalculatePrimeNumbers\obj\Debug\net6.0\CalculatePrimeNumbers.genruntimeconfig.cache
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\CalculatePrimeNumbers\obj\Debug\net6.0\ref\CalculatePrimeNumbers.dll
